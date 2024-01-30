@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+Hello World. I'll probably update this from time to time about cool things I'm working on.
 
-Maybe say a some things about yourself.
+I'm a full stack Android Developer so I'll probably cover a lot of different topics.
 
-Or maybe what you plan to blog about.
+Current Projects:
+* [MetroBee](https://metrobee.app)
+* Solar for [Regal Gaming Technologies](https://regalgaming.co.uk)
+
+Feel free to email me with any questions or ideas of your own :)
